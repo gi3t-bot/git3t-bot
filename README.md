@@ -1,4 +1,3 @@
-👋 About Me
 
 Hi, I’m **Prajjwal Dobriyal**.
 I’m a developer who focuses on building clean, structured, and practical web solutions.
